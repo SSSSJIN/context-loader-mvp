@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+config/settings.py
+.env
+*.pyc
+.streamlit/
